@@ -17,13 +17,6 @@
 
 [[https://finance-app-6fw3.onrender.com](https://finance-app-6fw3.onrender.com/register)]
 
-### Test Accounts
-
-| Role   | Username   | Password    |
-|--------|------------|-------------|
-| User   | testuser   | secret123   |
-| User   | kate       | 123456      |
-
 > Create your own account via `/register` or use the credentials above.
 
 ---
