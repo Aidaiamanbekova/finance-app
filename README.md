@@ -139,6 +139,21 @@ createdb finance_db
 | Postman – Transactions | <img width="718" height="569" alt="image" src="https://github.com/user-attachments/assets/ff37c479-6ccf-4ea6-ae5d-51bd0c090dd4" /> |
 
 ---
+## Architecture Diagrams
+
+System Architecture (Layered)
+
+<img width="2028" height="5445" alt="deepseek_mermaid_20260501_58dc63" src="https://github.com/user-attachments/assets/d9c17864-f939-4f4a-b72a-98334b08c14d" />
+
+Database Entity‑Relationship Diagram (ERD)
+
+<img width="1112" height="3064" alt="deepseek_mermaid_20260501_736ba1" src="https://github.com/user-attachments/assets/b02d9cc7-0c85-459f-9213-9a03e86effa0" />
+
+JWT Authentication Flow
+
+<img width="5663" height="2745" alt="deepseek_mermaid_20260501_8eee58" src="https://github.com/user-attachments/assets/883a68f6-5371-4126-bb94-e46694d235ed" />
+
+
 
 ## Project Structure
 
